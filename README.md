@@ -1,6 +1,6 @@
-## Olá, me chamo Gabriel Lynik, tenho 24 anos;
+## Olá, me chamo Gabriel Lynik!
 Atualmente curso Análise e desenvolimento de sistemas!
-Estou na trilha de aprender Python, com foco em me tornar um dev cloud!
+Estou na trilha para me aperfeiçoar em Python, com foco em cloud.
 <div style="display: inline_block"><br>
    <img align="center" alt="Lynik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lynik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
